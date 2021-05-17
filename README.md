@@ -4,7 +4,7 @@
 [2. list](html/python_list.html)<br/>
 [3. set](html/python_set.html)<br/>
 [4. tuple](html/python_tuple.html)<br/>
-[4. dictionary](html/python_dictionary.html)<br/>
+[5. dictionary](html/python_dictionary.html)<br/>
 
 
 ### Pyhon Func
