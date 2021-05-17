@@ -5,3 +5,7 @@
 [3. set](html/python_set.html)<br/>
 [4. tuple](html/python_tuple.html)<br/>
 [4. dictionary](html/python_dictionary.html)<br/>
+
+
+### Pyhon Func
+[1. for](html/python_for.html)<br/>
